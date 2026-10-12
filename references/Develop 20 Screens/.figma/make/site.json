@@ -1,0 +1,10 @@
+{
+  "description": "This web application streamlines the management of sales representatives, providing intuitive dashboards and tools for tracking performance and optimizing workflows.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
